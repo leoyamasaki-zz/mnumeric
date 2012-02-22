@@ -1,7 +1,9 @@
 /* Metodo de bisección */
+/* Compilarlo con: cc -lm -o biseccion biseccion.c */
+/* Ejecutalo con ./biseccion */
 
 #include <stdio.h>
-#include <stdlib.h>
+#include <math.h>
 
 double f( double x ){
   return(sin(x));
@@ -32,7 +34,7 @@ double biseccion(double x0, double x1){
 int main(int argc, char * argv[]){
   printf("Metodo de bisección\n");
   printf("Raices (entre 1 y 4) de función sen(x) = ");
-  printf("%f2.9",biseccion(1.0,4.0));
+  printf("%2.9f",biseccion(1.0,4.0));
   printf("\nAdiós\n");
 }
 
