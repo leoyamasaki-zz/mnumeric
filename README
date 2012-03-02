@@ -1,10 +1,26 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Bienvenidos alumnas y alumnos de métodos numericos
 %   En esta repositorio subiremos los ejercicios que 
 %   hagamos en clase y que luego deberán ampliar 
 %   para entregarlos como tareas.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Todos los scripts publicados aqui son Copyright de sus
 % respectivos autores, en ausencia serán Copyright de
 % Leonardo Yamasaki Maza bajo la licencia GNU
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PRIMERA TAREA %
+%%%%%%%%%%%%%%%%%
+% Tendran que modificar el script de octave fp_logistica.m
+% en la parte que dice:
+% y = 2*(x.*(1-x));
+% deberan ejecutar el script incrementando la constante 2 con
+% incrementos de 0.1, esto es primero 2.0 luego 2.1 luego 2.2
+% etc, hasta llegar a 4.0 y ver las graficas que les da.
+% Las gráficas las copian y las ponen en un archivo de 
+% LibreOffice les ponen sus datos personales y esto es lo que
+% entregarán.
+% Fecha limite de entrega: sabado 10 de marzo 2012.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%
